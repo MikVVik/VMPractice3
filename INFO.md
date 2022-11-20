@@ -20,4 +20,6 @@
 
 ![дубль два сработал](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJd4ZyLB4PrUyTYzLoUc9USajCkcIPfl7S_9rs_B3XXYRPYL9XHOu2yD5qVz493Rm4FQk&usqp=CAU) 
 
-а вот и нет
+а вот и нет 
+
+похоже проблема в картинках
