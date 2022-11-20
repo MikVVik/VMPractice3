@@ -25,3 +25,7 @@
 похоже проблема в картинках
 
 ![хоть какая-нибудь картинка вставится сегодня??](otkrytka-molodets-prikolnaya.jpg) 
+
+что не так с добавлением картинок??
+![плизмазафака!!](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-le4pfBUPnSXyuNraKgMMyYJB9kqHcdQcZQ&usqp=CAU)
+
